@@ -3,4 +3,5 @@ class Hello2 {
     String greeting = "Hello!";
     int firstNumber = 1;
     int secondNumber = 2;
+    int thirdNumber = 3;
 }
