@@ -22,4 +22,10 @@ class Hello {
     public void setName(String name) {
         this.name = name;
     }
+
+    public static void main(String[] args) {
+        for(int i = 0; i < args.length; i++) {
+            System.out.println("Hello Java " + i + "! = " + args[i]);
+        }
+    }
 }
