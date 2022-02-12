@@ -6,4 +6,6 @@ class Hello5 {
     private final String value03 = "It's third String value at Hello5.java";
 
     private final String value04 = "It's forth String value at Hello5.java for 'testing' branch";
+
+    private final String value05 = "It's fifth String value at Hello5.java for 'testing' branch";
 }
